@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<levelsData>
+		<levelData levelName="Easy" buttons="4" points="1" time="50" isRepeat="true" speed="1">
+		</levelData>
+		<levelData levelName="Medium" buttons="5" points="2" time="45" isRepeat="true" speed="1.25">
+		</levelData>
+		<levelData levelName="Hard" buttons="6" points="3" time="30" isRepeat="false" speed="1.5">
+		</levelData>
+	</levelsData>
+</config>
